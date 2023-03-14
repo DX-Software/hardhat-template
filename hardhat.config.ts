@@ -6,6 +6,7 @@ import "tsconfig-paths/register";
 import "hardhat-gas-reporter";
 import "@typechain/hardhat";
 import "solidity-coverage";
+import "hardhat-contract-sizer";
 
 dotenv.config();
 
